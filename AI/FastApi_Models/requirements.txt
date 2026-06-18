@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+numpy
+opencv-python-headless
+
+tensorflow>=2.16.1
+
+torch
+torchvision
+
+ultralytics
+
+pydantic
